@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LearningAndroid_01</string>
+    <string name="main_text">Hola Mundo! :v</string>
+    <string name="main_button">Presioname we :v</string>
+    <string name="other_main_button">Presiona aqui tambien we :B</string>
+    <string name="next_button">Vamo a la siguiente ventana</string>
+    <string name="second_to_third_activity">Vamos a la otra wea we</string>
+</resources>
