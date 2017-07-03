@@ -84,6 +84,8 @@ public class ThirdActivity extends AppCompatActivity {
                     intentEmail.putExtra(Intent.EXTRA_TEXT, "testing the text");
 
                     startActivity(intentWeb);
+                } else {
+                    Toast.makeText(ThirdActivity.this, "no ingresaste ninguna direccion weon", Toast.LENGTH_SHORT).show();
                 }
             }
         });
